@@ -1,6 +1,6 @@
 # npm community
 
-A testing ground for integrations, especially GitHub/repo related automation
+A testing ground for integrations & tools for migrating npm.community back onto GitHub
 
-**API Docs**
-[https://docs.discourse.org/](https://docs.discourse.org/)
+- [Discourse API](https://docs.discourse.org/)
+
